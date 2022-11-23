@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sinem Çetin
 - 👀 I’m interested in Web designer and programming
-- 🌱 I’m currently learning Frontend (HTML, CSS, JavaScript), C#, MSSQL
+- 🌱 I’m currently learning C#, MSSQL, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me good.sinem@gmail.com
 
